@@ -25,10 +25,10 @@ Tendo como objetivo principal, visamos uma criação de site com base em html. T
 <hr>
   
 ## Utilização da API
-  ### API: https://docs.api.jikan.moe/#tag/top/operation/getTopAnime
-  ### A api é gratuita, mas existe uma limitação na quantidade de requests por minuto.
-  ### A requisição é padronizada e geralmente retorna os mesmos campos e varíaveis dentro do arquivo json,
-  ### Caso você faça uma requisição nesse estilo
+  API: https://docs.api.jikan.moe/#tag/top/operation/getTopAnime
+  A api é gratuita, mas existe uma limitação na quantidade de requests por minuto.
+  A requisição é padronizada e geralmente retorna os mesmos campos e varíaveis dentro do arquivo json,
+  Caso você faça uma requisição nesse estilo
   ```javascript
 var request = new XMLHttpRequest();
 
@@ -45,7 +45,7 @@ request.onreadystatechange = function () {
 request.send();
 ```
   
-  ### Receberá uma resposta como essa:
+  Receberá uma resposta como essa:
 ```javascript
 `{
 "data": [
