@@ -33,7 +33,7 @@ Tendo como objetivo principal, visamos uma criação de site com base em html. T
   ```javascript
 var request = new XMLHttpRequest();
 
-request.open('GET', 'https://api.jikan.moe/v3/anime/{id}/{request}/{parameter}');
+request.open('GET', 'https://api.jikan.moe/v4/anime/{id}/{request}/{parameter}');
 
 request.onreadystatechange = function () {
   if (this.readyState === 4) {
