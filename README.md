@@ -59,6 +59,12 @@ request.send();
 }
 }`
 ```
+<br>
+ Consequentemente deverá manipular essa informação e navegar utilizando .map para definir as variáveis que deverá aparecer no projeto.
+ <br>
+ Essa é uma das ideias iniciais ao desenvolver o projeto, uma maneira simples de explicar a requisição por trás do projeto,
+ <br>
+ Mas o script utilizado dentro do projeto vai um pouco além disso.
   
   
 
