@@ -54,7 +54,7 @@ function updateDom(data){
       <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
     </div>
     <div class="modal-body text-center">
-      <img src="${anime.images.jpg.large_image_url}" style="width: 20rem; height: 20rem;" class="card-img-center rounded-4 btn-transparent bg-transparent border-transparent mb-5 text-center" alt="...">
+      <img src="${anime.images.jpg.image_url}" style="width: 20rem; height: 20rem;" class="card-img-center rounded-4 btn-transparent bg-transparent border-transparent mb-5 text-center" alt="...">
     </div>
 
         
@@ -133,7 +133,7 @@ function updateDomManga(data){
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                   </div>
                   <div class="modal-body text-center">
-                    <img src="${manga.images.jpg.large_image_url}" style="width: 20rem; height: 20rem;" class="card-img-center rounded-4 btn-transparent bg-transparent border-transparent mb-5 text-center" alt="...">
+                    <img src="${manga.images.jpg.image_url}" style="width: 20rem; height: 20rem;" class="card-img-center rounded-4 btn-transparent bg-transparent border-transparent mb-5 text-center" alt="...">
                   </div>
 
                   <hr>
