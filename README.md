@@ -3,7 +3,7 @@
 <HR>
 
 # Dados da Turma <br>
-Dia da semana: Quinta Feira <br>
+Dia da semana: Terça Feira <br>
 Período: Noturno <br>
 
 ### Integrantes
