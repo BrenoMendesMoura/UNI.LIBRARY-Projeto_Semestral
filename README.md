@@ -2,9 +2,9 @@
 
 <HR>
 
-# Dados da Turma
-Dia da semana: Quinta Feira
-Período: Noturno
+# Dados da Turma <br>
+Dia da semana: Quinta Feira <br>
+Período: Noturno <br>
 
 ### Integrantes
 
