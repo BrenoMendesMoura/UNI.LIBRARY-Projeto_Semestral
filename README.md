@@ -14,7 +14,7 @@ Período: Noturno <br>
 |3021103830|Victor França de Souza|TADS|04A|
 |3021100282|Victor de souza bernardo|TADS|04A|
 |3021104031|Cesar Augusto Martins Vallim|TADS|04A|
-|3021103269|Elias Yuri Yohsy Miyashiro|TADS|04A|
+|3021103269|Elias Yuri Yoshy Miyashiro|TADS|04A|
 
 
 <hr>
